@@ -1,1 +1,2 @@
-# ed-209-kid
+# Sentinel Core
+
